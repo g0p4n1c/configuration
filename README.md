@@ -1,2 +1,2 @@
-# configuration
+# Personal Config
 Just some configuration files
